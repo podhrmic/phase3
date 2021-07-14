@@ -32,12 +32,12 @@ addons:
       - realpath
       - python-pip
       - libxml2-utils
-      - uboot-mkimage
+      - uboot-tools
       - python2.7-dev
       - ninja-build
       - libsqlite3-dev
       - libcunit1-dev
-      - clang-3.4
+      - clang-3.5
       - expect
       - cmake
       - cmake-data
